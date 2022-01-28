@@ -6,4 +6,5 @@
 
 
 ### Notes
-I'm really getting back into the grove of competitive programming and I'm starting to get consistently where I think is a reasonable amount of questions answered. I managed to finish 3 solutions with about 7 minutes left to start on a fourth problem. I hope that 3 questions answered will be my minimum from now on as I hope to break through the next ceiling and try to get 4 solved problems consistently
+I'm really getting back into the grove of competitive programming and I'm starting to get consistently where I think is a reasonable amount of questions answered. I managed to finish 3 solutions with about 7 minutes left to start on a fourth problem. I hope that 3 questions answered will be my minimum from now on as I hope to break through the next ceiling and try to get 4 solved problems consistently. 
+Side note: I'm very close to the rank of pupil!
